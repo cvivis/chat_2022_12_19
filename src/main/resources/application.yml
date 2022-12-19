@@ -1,0 +1,5 @@
+server:
+  port: 8020
+logging:
+  level:
+    com.example.chat_22_12_19: debug
